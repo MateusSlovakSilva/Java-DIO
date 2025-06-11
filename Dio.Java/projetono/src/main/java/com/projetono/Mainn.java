@@ -1,6 +1,6 @@
 package main.java.com.projetono;
 
-public class Main {
+public class Mainn {
     public static void main(String[] args) {
         No<String> no1 = new No<>("Conteudo no1");
         No<String> no2 = new No<>("Conteudo no2");
